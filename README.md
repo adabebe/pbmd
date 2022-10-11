@@ -1,14 +1,17 @@
-# POC - ??
-
-## Table of Contents
-1. [Mission Statement](#Mission-Statement)
-1. [Overview](#Overview)
-1. [Scraping PubMed](#Scraping-PubMed)
+# POC - KOALA INSIGHTS
 
 ## Mission Statement
 Here we utilize knowledge graphs to gain insight into the domain of ???
 
 The core information source is for this task are scientific abstracts from PubMed database. Using NLP-NER and graphs we are able to extract latent information.
+
+## Overview
+
+1. [Scraping PubMed](#Mission-Statement)
+1. [Data preprocessing/cleaning](#Data-preprocessing)
+1. [Data enrichment (NER)](#Data-enrichment-(NER))
+1. [Neo4j graph creation](#Neo4j-graph-creation)
+1. [Use-case testing on graph](#Use-case-testing)
 
 ## Use cases
 1. What are diseases that affect the animal?
@@ -22,13 +25,16 @@ The core information source is for this task are scientific abstracts from PubMe
 1. Are some hospitals/institutions specialized in specific diseases?
 
 
-## Overview
 
-1. Scraping PubMed
-1. Data preprocessing/cleaning
-1. Data enrichment (NER)
-1. Neo4j graph creation
-1. Use case testing on graph
 
-## Scraping PubMed
+##  Scraping PubMed
+##  Data preprocessing
+##  Data enrichment (NER)
+##  Neo4j graph creation
+
+
+<img src="figures\schema.png" alt="drawing" width="400"/>
+
+
+##  Use case testing on graph
 
