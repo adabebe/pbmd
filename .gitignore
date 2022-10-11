@@ -1,1 +1,5 @@
 /data
+/temp
+geckodriver.log
+.vscode
+neo4j_config.yaml
