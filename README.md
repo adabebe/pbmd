@@ -13,8 +13,8 @@ The core information source is for this task are scientific abstracts from PubMe
 ## Use cases
 1. What are diseases that affect the animal?
 1. What are the rare diseases?
-1. Which disease are common?
-1. What disease often occur in conjuction?
+1. Which diseases are common?
+1. What diseases often occur in conjuction?
 1. What genetic factors contribute to these diseases?
 1. How does the prevalence of these diseases change over time
 1. Do chemical factors play role?
