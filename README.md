@@ -1,17 +1,24 @@
-# POC - KOALA INSIGHTS
-
-## Mission Statement
-Here we utilize knowledge graphs to gain insight into the domain of ???
-
-The core information source is for this task are scientific abstracts from PubMed database. Using NLP-NER and graphs we are able to extract latent information.
+# POC - KOALA RESEARCH INSIGHTS
 
 ## Overview
-
+1. [Mission Statement](#Mission-Statement)
 1. [Scraping PubMed](#Mission-Statement)
 1. [Data preprocessing/cleaning](#Data-preprocessing)
 1. [Data enrichment (NER)](#Data-enrichment-(NER))
 1. [Neo4j graph creation](#Neo4j-graph-creation)
-1. [Use-case testing on graph](#Use-case-testing)
+1. [Use-case testing on graph](#Use-case-testing-on-graph)
+1. [Future Directions](#Future-Directions)
+
+## Mission Statement
+Here we utilize knowledge graphs to gain insight into the domain of [Koala research](https://en.wikipedia.org/wiki/Koala).
+
+The core information source for this task are scientific abstracts from PubMed database. Using named-entity-recognition (NER) from natural-language-processing (NLP) discipline and graphs we are able to extract latent information that provides new insights into the koala-related research field.
+
+For example, using the generated knowledge graph, one can easily find answers to questions below in [use cases](##Use-cases)
+
+<img src="figures\360px-Koala_climbing_tree.jpg" alt="drawing" width="100"/>
+
+
 
 ## Use cases
 1. What are diseases that affect the animal?
@@ -37,4 +44,4 @@ The core information source is for this task are scientific abstracts from PubMe
 
 
 ##  Use case testing on graph
-
+##  Future Directions
