@@ -48,7 +48,7 @@ An example of two connected papers in the knowledge graph and their connected no
 
 <img src="figures\query8.png" alt="drawing" width="800"/>
 
-[Link to notebook](preprocess.ipynb) that has answer to all the abovementioned use-cases.
+[Link to notebook](query_graph.ipynb) that has answer to all the abovementioned use-cases.
 
 ##  Scraping PubMed
 - Selenium package was used to scrape content from PubMed and BeautifulSoup was used to parse the content of the HTML
